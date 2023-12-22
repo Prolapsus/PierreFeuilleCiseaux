@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PierreFeuilleCiseauxProject", "PierreFeuilleCiseauxProject.csproj", "{34AA90F4-7C6D-45DF-BEA0-E53CF9EA780A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PierreFeuilleCiseauxUnitTests", "..\PierreFeuilleCiseauxUnitTests\PierreFeuilleCiseauxUnitTests.csproj", "{5E7C7B9E-A824-47B8-B130-66561553A827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AA90F4-7C6D-45DF-BEA0-E53CF9EA780A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AA90F4-7C6D-45DF-BEA0-E53CF9EA780A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AA90F4-7C6D-45DF-BEA0-E53CF9EA780A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AA90F4-7C6D-45DF-BEA0-E53CF9EA780A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7C7B9E-A824-47B8-B130-66561553A827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7C7B9E-A824-47B8-B130-66561553A827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7C7B9E-A824-47B8-B130-66561553A827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7C7B9E-A824-47B8-B130-66561553A827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A96793-CD2D-4F5F-9096-FF2A814D1F8B}
+	EndGlobalSection
+EndGlobal
