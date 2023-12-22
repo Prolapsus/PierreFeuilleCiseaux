@@ -1,0 +1,14 @@
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\bin\Debug\net8.0\PierreFeuilleCiseauxProject.exe
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\bin\Debug\net8.0\PierreFeuilleCiseauxProject.deps.json
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\bin\Debug\net8.0\PierreFeuilleCiseauxProject.runtimeconfig.json
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\bin\Debug\net8.0\PierreFeuilleCiseauxProject.dll
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\bin\Debug\net8.0\PierreFeuilleCiseauxProject.pdb
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.AssemblyInfoInputs.cache
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.AssemblyInfo.cs
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.csproj.CoreCompileInputs.cache
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.dll
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\refint\PierreFeuilleCiseauxProject.dll
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.pdb
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\PierreFeuilleCiseauxProject.genruntimeconfig.cache
+C:\Users\p.minella\Desktop\PierreFeuilleCiseaux\PierreFeuilleCiseauxProject\obj\Debug\net8.0\ref\PierreFeuilleCiseauxProject.dll
